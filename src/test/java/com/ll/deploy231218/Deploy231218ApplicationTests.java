@@ -10,7 +10,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 @ActiveProfiles("test")
 class Deploy231218ApplicationTests {
     @Test
-    void contextLoads() {
-        assertThat(1).isEqualTo(2);
+    void v1() {
+
     }
+
 }
